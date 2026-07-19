@@ -11,7 +11,7 @@ Exploring <b>Cybersecurity & Penetration Testing</b> through labs, CTFs, and rea
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,go,docker,git,graphql,cpp,cs,css,dotnet,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,go,docker,git,graphql,cpp,cs,css,dotnet,vscode,java" height="45" />
 </div>
 
 ---
