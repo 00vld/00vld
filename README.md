@@ -1,12 +1,4 @@
-<h2 align="center">👋</h2>
-
-<p align="center">
-Learning by building, breaking, and understanding systems.
-</p>
-
-<p align="center">
-Exploring <b>Cybersecurity & Penetration Testing</b> through labs, CTFs, and real-world scenarios.
-</p>
+<h2 align="center">Hi, I am Vinay 👋</h2>
 
 ---
 
